@@ -4,10 +4,11 @@
 * About Me
 ### Skills
 * Skills with progress bar
+### Work Experience
+* Work Experience Timeline
 ### Education
 * Undergrad
 * Exchange
-### Work Experience
 ### Contact
 * Mail Address
 
