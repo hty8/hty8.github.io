@@ -1,9 +1,7 @@
 # Portfolio Website.
 ###### https://hty8.github.io/
-
-### About me
-* Machine Learning Page
-
+### About Me
+* About Me
 ### Skills
 * Skills with progress bar
 ### Education
