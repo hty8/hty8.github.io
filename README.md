@@ -2,13 +2,13 @@
 ###### https://hty8.github.io/
 ### About Me
 * About Me
-### Skills
-* Skills with progress bar
 ### Work Experience
 * Work Experience Timeline
 ### Education
 * Undergrad
 * Exchange
+### Skills
+* Skills with progress bar
 ### Contact
 * Mail Address
 
