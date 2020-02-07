@@ -1,4 +1,4 @@
-# Portfolio Website.
+# Portfolio Website
 ###### https://hty8.github.io/
 ### About Me
 * About Me
