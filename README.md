@@ -8,7 +8,7 @@
 ### Work Experience
 * Work Experience Timeline
 ### Skills
-* Skills with progress bar
+* Skills with progress bars
 ### Contact
 * Mail Address
 
