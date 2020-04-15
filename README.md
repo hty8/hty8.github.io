@@ -1,5 +1,5 @@
 # Portfolio Website
-https://hty8.github.io/
+https://hasantalhayazici.com/
 ### About Me
 * About Me
 ### Education
