@@ -1,16 +1,14 @@
 # Portfolio Website
 https://hasantalhayazici.com/
 ### About Me
-* About Me
+* Summary
+### Work Experience
+* Work Experience Timeline
 ### Education
 * Undergrad
 * Exchange
-### Work Experience
-* Work Experience Timeline
-### Skills
-* Skills with progress bars
 ### Contact
-* Mail Address
+* E-mail Address
 
 ### Footer
 ------------------------------------------------------------------
