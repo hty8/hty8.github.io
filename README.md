@@ -1,5 +1,5 @@
 # Portfolio Website
-https://hasantalhayazici.com/
+
 ### About Me
 * Summary
 ### Work Experience
